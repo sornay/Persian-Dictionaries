@@ -54,6 +54,11 @@ These dictionaries were:
 * MDict
 * BlueDict
 
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/5bb92574-0b8e-4605-b869-b55de2dc69dc" height="351">
+<img src="https://github.com/user-attachments/assets/809f7b25-0e4a-4f9c-9a8b-a7289e8083dd" height="351">
+
 ## ⚠️ Copyright & License
 
 This repository only provides **format conversion and technical enhancement**, not ownership of the original content.
